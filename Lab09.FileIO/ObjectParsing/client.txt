@@ -1,0 +1,6 @@
+5
+12 - Nguyen Khang - 10000
+13 - LE VAN A - 100000
+14 - Dinh Thai Son - 400000
+15 - Nguyen Van Vu - 6e+06
+10 - Nguyen Hoang Long - 1e+07
